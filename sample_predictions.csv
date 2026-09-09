@@ -1,0 +1,4 @@
+vibration_rms,temperature_motor,current_phase_avg,pressure_level,rpm,hours_since_maintenance,ambient_temp,machine_type,operating_mode,Actual,Logistic Regression_Prediction,Logistic Regression_Probability,Random Forest_Prediction,Random Forest_Probability,XGBoost_Prediction,XGBoost_Probability
+1.0,48.11,5.7,45.8,755.4,29.48,8.7,Compressor,idle,0,0,0.046,0,0.032,0,0.005
+4.34,62.52,16.82,69.5,2708.5,15.92,8.5,CNC,normal,1,1,0.983,1,0.788,1,0.904
+0.98,35.87,5.38,44.4,348.9,299.51,11.2,Robotic Arm,normal,0,0,0.015,0,0.042,0,0.003
